@@ -1,1 +1,1 @@
-# -GIA-Course-6-Week4-Automate-Updating-Catalog-Information
+# GIA-Course-6-Week4-Automate-Updating-Catalog-Information
